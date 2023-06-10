@@ -14,7 +14,6 @@ class DashboardProductController extends Controller
      */
     public function index()
     {
-        //
     }
 
     /**
